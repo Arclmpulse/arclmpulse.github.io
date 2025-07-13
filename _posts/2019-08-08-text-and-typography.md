@@ -8,9 +8,5 @@ tags: [typography]
 pin: true
 math: true
 mermaid: true
-image:
-  path: /commons/devices-mockup.png
-  #lqip: 
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
