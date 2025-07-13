@@ -14,9 +14,9 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Martin Chang<br>장현석
+title: Martin Chang
 
-tagline: BASc ME 2024 UWaterloo<br>System Designer @ ALSTOM
+tagline: 장현석<br>BASc ME 2024 UWaterloo<br>System Designer @ ALSTOM
 
 description: >- # used by seo meta and the atom feed
   My personal website, where I share my thoughts and projects.
