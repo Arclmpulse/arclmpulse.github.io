@@ -24,7 +24,7 @@ To quickly access my review content on media, you can head to the **categories**
 
 If you're interested in seeing a master list of my games, Kdramas, movies, shows, etc. and how I approximately rank them relative to each other, you can look in the **ranked** folder.
 
-To quickly access a particular franchise, you'll need to go into the **tags** tab on the left. Once in there, you'll see a list
+To quickly access a particular franchise or publisher, you'll need to go into the **tags** tab on the left. Once in there, you'll see a list of titles. Simply click on the one you're interested in, and it'll blow up into a list of all of the associated titles with that tag.
 
 Alternatively, you can also just enter a search query on the top right of the site.
 
@@ -34,12 +34,24 @@ Alternatively, you can also just enter a search query on the top right of the si
 
 I've debated whether using a percentage scale, x/10 scale, x/5 scale, etc. I ended up settling on x/10 with .5 increments. Gives enough different tiers to differentiate between titles while still having a clear hierarchy between the groups.
 
-I also decided on using the academic/high school way of marking. AKA, 5/10 is the borderline of pass/fail, anything below that is varying levels of putrid, 100% is perfect, majority of the titles I review will fit under 6-9/10. Nice. My rationale is that I think very few titles genuinely have nothing redeeming it. Of course there are some exceptions, but generally I think it's fair for 50% to be the benchmark of whether you should try watching/playing it or not.
+I have included a master list below of all of the pieces of media I've reviewed, roughly ranked in this page. Read on if you're intrigued.
+
+I also decided on using the academic/high school way of marking. AKA, 5/10 is the borderline of pass/fail, anything below that is varying levels of putrid, 10/10 is perfect, majority of the titles I review will fit under 6-9/10. Nice. My rationale is that I think very few titles genuinely have nothing redeeming it. Of course there are some exceptions, but generally I think it's fair for 50% to be the benchmark of whether you should try watching/playing it or not.
 
 Loosely, I will generally try to comment on the major characters, overall plot, villains, and my takeaways from what I thought the writer of the media was trying to convey. Of course in the case of games I'll need to factor in combat/general gameplay, map design, other tidbits as well.
 
-I am a bit of a hopeless romantic, I won't deny I'll probably be biased a bit if there's a well-executed romance in a title.
+I am a bit of a hopeless romantic, I won't deny I'll probably be biased a bit if there's a well-executed romance in a title. Nothing I appreciate more than a cheesy, trashy rom-com!
 
 Lastly in the case of games, my structure to review games with a compilation of levels in them like Ace Attorney or Hitman World of Assassination will have me reviewing each individual level instead. I'll be averaging out the scores to give the game it's overall rating.
 
 Thank you for your attention to this matter! 😉
+
+## Video Games Master List
+
+### 10/10
+
+| Title                 | Year | Platform       | Publisher      |
+| --------------------- | ---- | -------------- | -------------- |
+| Red Dead Redemption 2 | 2018 | PS4/XB1/**PC** | Rockstar Games |
+| February              |      |                |                |
+| March                 |      |                |                |
