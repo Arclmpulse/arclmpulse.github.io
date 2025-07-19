@@ -14,7 +14,7 @@ mermaid: true
 
 If you found yourself here, well, I guess you have nothing better to do, heh. Why don't you turn back and do something more productive with your time, like learning about the history of the universe?
 
-{% include embed/{youtube}.html id='{uD4izuDMUQA}' %}
+{% include embed/youtube.html id='uD4izuDMUQA' %}
 
 In all seriousness, if you're here, it's because you accidentally clicked on this, or you wanted to get more insight on how I review things. While I can't give you a satisfying answer on the former, I can give you an answer on the latter. Read on!
 
