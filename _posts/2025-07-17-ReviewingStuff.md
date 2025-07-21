@@ -22,7 +22,7 @@ In all seriousness, if you're here, it's because you accidentally clicked on thi
 
 To quickly access my review content on media, you can head to the **categories** tab on the left. Once you're in there, you'll see a bunch of folders that look like this:
 
-If you're interested in seeing a master list of my games, Kdramas, movies, shows, etc. and how I approximately rank them relative to each other, you can look in the **ranked** folder.
+If you're interested in seeing a master list of my games, Kdramas, movies, shows, etc. and how I approximately rank them relative to each other, you can scroll down towards all of the different master lists.
 
 To quickly access a particular franchise or publisher, you'll need to go into the **tags** tab on the left. Once in there, you'll see a list of titles. Simply click on the one you're interested in, and it'll blow up into a list of all of the associated titles with that tag.
 
@@ -33,8 +33,6 @@ Alternatively, you can also just enter a search query on the top right of the si
 **To get it out of the way early, all of my reviews have spoilers! I'll always open the review with the score to try and prevent passers-by from getting spoiled, but I will be talking about what happens during the media freely!**
 
 I've debated whether using a percentage scale, x/10 scale, x/5 scale, etc. I ended up settling on x/10 with .5 increments. Gives enough different tiers to differentiate between titles while still having a clear hierarchy between the groups.
-
-I have included a master list below of all of the pieces of media I've reviewed, roughly ranked in this page. Read on if you're intrigued.
 
 I also decided on using the academic/high school way of marking. AKA, 5/10 is the borderline of pass/fail, anything below that is varying levels of putrid, 10/10 is perfect, majority of the titles I review will fit under 6-9/10. Nice. My rationale is that I think very few titles genuinely have nothing redeeming it. Of course there are some exceptions, but generally I think it's fair for 50% to be the benchmark of whether you should try watching/playing it or not.
 
@@ -50,8 +48,9 @@ Thank you for your attention to this matter! 😉
 
 ### 10/10
 
-| Title                 | Year | Platform       | Publisher      |
-| --------------------- | ---- | -------------- | -------------- |
-| Red Dead Redemption 2 | 2018 | PS4/XB1/**PC** | Rockstar Games |
-| February              |      |                |                |
-| March                 |      |                |                |
+| Title                                | Year | Platform                   | Publisher      |
+| ------------------------------------ | ---- | -------------------------- | -------------- |
+| Red Dead Redemption 2                | 2018 | PS4/XB1/**PC**             | Rockstar Games |
+| Metal Gear Solid 2 - Sons of Liberty | 2001 | **PS2**/XBOX/PC            | Konami         |
+| February                             |      |                            |                |
+| The Witcher 3 - Wild Hunt            | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red |

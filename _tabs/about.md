@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-> {: .prompt-tip }
-
 ### Welcome to my website!
 
 I'm Martin Chang, a Mechanical Engineer with a passion for computer vision, robotics, and additive manufacturing with several years of experience - industry and hobby included. In my downtime when I'm not tinkering with a 3D Printer or some other hardware, I enjoy reading, writing, soccer, swimming, tennis and playing the piano. I'll never say no to some good old reality TV though!
