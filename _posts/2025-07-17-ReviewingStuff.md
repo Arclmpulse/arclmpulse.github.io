@@ -1,6 +1,6 @@
 ---
 title: Reviewing Stuff!
-description: Primer of my reviewing methodology on games, shows, movies, etc!
+description: Primer of my reviewing methodology on games, shows, movies, and ranked lists of the media I review!
 author: arclmpulse
 date: 2025-07-17 22:20
 categories: [Reviews]
@@ -48,9 +48,10 @@ Thank you for your attention to this matter! 😉
 
 ### 10/10
 
-| Title                                | Year | Platform                   | Publisher      |
-| ------------------------------------ | ---- | -------------------------- | -------------- |
-| Red Dead Redemption 2                | 2018 | PS4/XB1/**PC**             | Rockstar Games |
-| Metal Gear Solid 2 - Sons of Liberty | 2001 | **PS2**/XBOX/PC            | Konami         |
-| February                             |      |                            |                |
-| The Witcher 3 - Wild Hunt            | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red |
+| Title                                | Year | Platform                   | Publisher              |
+| ------------------------------------ | ---- | -------------------------- | ---------------------- |
+| Red Dead Redemption 2                | 2018 | PS4/XB1/**PC**             | Rockstar Games         |
+| Metal Gear Solid 2 - Sons of Liberty | 2001 | **PS2**/XBOX/PC            | Konami                 |
+| Silent Hill 2                        | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
+| The Witcher 3 - Wild Hunt            | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
+| Fallout New Vegas                    | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
