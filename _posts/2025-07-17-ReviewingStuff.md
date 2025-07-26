@@ -55,3 +55,7 @@ Thank you for your attention to this matter! 😉
 | Silent Hill 2                        | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
 | The Witcher 3 - Wild Hunt            | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
 | Fallout New Vegas                    | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
+| Chrono Trigger                       | 1995 | SNES/**DS**/PC             | Square Enix            |
+| The Last of Us                       | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
+| The Legend of Zelda - Majora's Mask  | 2000 | **N64**/GCN/3DS            | Nintendo               |
+| Final Fantasy 6                      | 1994 | SNES/**GBA**/PC            | Square Enix            |
