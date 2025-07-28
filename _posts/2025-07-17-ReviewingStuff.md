@@ -46,16 +46,34 @@ Thank you for your attention to this matter! 😉
 
 ## Video Games Master List
 
+Something to note: every title has a link to the respective review found on my website.
+
+Further, these games are roughly ranked in the order I would rate them in - the first three titles in 10/10 are my top 3 games of all time, etc.
+
+The platform that is bolded is the one I played on. My experience with the game may vary from someone else's who played on a different platform because of this.
+
+Thanks for reading this, now for the list!
+
 ### 10/10
 
-| Title                                | Year | Platform                   | Publisher              |
-| ------------------------------------ | ---- | -------------------------- | ---------------------- |
-| Red Dead Redemption 2                | 2018 | PS4/XB1/**PC**             | Rockstar Games         |
-| Metal Gear Solid 2 - Sons of Liberty | 2001 | **PS2**/XBOX/PC            | Konami                 |
-| Silent Hill 2                        | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
-| The Witcher 3 - Wild Hunt            | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
-| Fallout New Vegas                    | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
-| Chrono Trigger                       | 1995 | SNES/**DS**/PC             | Square Enix            |
-| The Last of Us                       | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
-| The Legend of Zelda - Majora's Mask  | 2000 | **N64**/GCN/3DS            | Nintendo               |
-| Final Fantasy 6                      | 1994 | SNES/**GBA**/PC            | Square Enix            |
+| Title                                                                   | Year | Platform                   | Publisher              |
+| ----------------------------------------------------------------------- | ---- | -------------------------- | ---------------------- |
+| [Red Dead Redemption 2]({% post_url 2025-07-18-RDR2 %})                 | 2018 | PS4/XB1/**PC**             | Rockstar Games         |
+| [Metal Gear Solid 2 - Sons of Liberty]({% post_url 2025-07-20-MGS2 %})  | 2001 | **PS2**/XBOX/PC            | Konami                 |
+| [Silent Hill 2]({% post_url 2025-07-21-SH2 %})                          | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
+| [The Witcher 3 - Wild Hunt]({% post_url 2025-07-20-TW3 %})              | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
+| [Fallout New Vegas]({% post_url 2025-07-21-FNV %})                      | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
+| [Chrono Trigger]({% post_url 2025-07-23-CT %})                          | 1995 | SNES/**DS**/PC             | Square Enix            |
+| [The Last of Us]({% post_url 2025-07-23-TLOU %})                        | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
+| [The Legend of Zelda - Majora's Mask]({% post_url 2025-07-24-TLOZMM %}) | 2000 | **N64**/GCN/3DS            | Nintendo               |
+| [Final Fantasy 6]({% post_url 2025-07-24-FF6 %})                        | 1994 | SNES/**GBA**/PC            | Square Enix            |
+
+### 9.5/10
+
+| Title                                                               | Year | Platform            | Publisher             |
+| ------------------------------------------------------------------- | ---- | ------------------- | --------------------- |
+| [Uncharted 4]({% post_url 2025-07-26-U4 %})                         | 2016 | **PS4**/PC          | Naughty Dog           |
+| [Xenoblade Chronicles 1]({% post_url 2025-07-26-XC1 %})             | 2010 | **Wii**/3DS/NSW     | Monolith Soft         |
+| [The Elder Scrolls III - Morrowind]({% post_url 2025-07-26-TES3 %}) | 2002 | XBOX/**PC**         | Bethesda Game Studios |
+| [Metal Gear Solid 3 - Snake Eater]({% post_url 2025-07-26-MGS3 %})  | 2004 | **PS2**/PC          | Konami                |
+| [Red Dead Redemption]({% post_url 2025-07-27-RDR %})                | 2010 | **PS3**/X360/NSW/PC | Rockstar Games        |
