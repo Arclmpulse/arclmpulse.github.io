@@ -56,24 +56,37 @@ Thanks for reading this, now for the list!
 
 ### 10/10
 
-| Title                                                                   | Year | Platform                   | Publisher              |
-| ----------------------------------------------------------------------- | ---- | -------------------------- | ---------------------- |
-| [Red Dead Redemption 2]({% post_url 2025-07-18-RDR2 %})                 | 2018 | PS4/XB1/**PC**             | Rockstar Games         |
-| [Metal Gear Solid 2 - Sons of Liberty]({% post_url 2025-07-20-MGS2 %})  | 2001 | **PS2**/XBOX/PC            | Konami                 |
-| [Silent Hill 2]({% post_url 2025-07-21-SH2 %})                          | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
-| [The Witcher 3 - Wild Hunt]({% post_url 2025-07-20-TW3 %})              | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
-| [Fallout New Vegas]({% post_url 2025-07-21-FNV %})                      | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
-| [Chrono Trigger]({% post_url 2025-07-23-CT %})                          | 1995 | SNES/**DS**/PC             | Square Enix            |
-| [The Last of Us]({% post_url 2025-07-23-TLOU %})                        | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
-| [The Legend of Zelda - Majora's Mask]({% post_url 2025-07-24-TLOZMM %}) | 2000 | **N64**/GCN/3DS            | Nintendo               |
-| [Final Fantasy 6]({% post_url 2025-07-24-FF6 %})                        | 1994 | SNES/**GBA**/PC            | Square Enix            |
+| Title                                                                  | Year | Platform                   | Publisher              |
+| ---------------------------------------------------------------------- | ---- | -------------------------- | ---------------------- |
+| [Red Dead Redemption 2]({% post_url 2025-07-18-RDR2 %})                | 2018 | PS4/XB1/**PC**             | Rockstar Games         |
+| [Metal Gear Solid 2 - Sons of Liberty]({% post_url 2025-07-20-MGS2 %}) | 2001 | **PS2**/XBOX/PC            | Konami                 |
+| [Silent Hill 2]({% post_url 2025-07-21-SH2 %})                         | 2001 | **PS2**/PS3/XBOX/X360/PC   | Konami                 |
+| [The Witcher 3 - Wild Hunt]({% post_url 2025-07-20-TW3 %})             | 2015 | PS4/PS5/XB1/XBX/NSW/**PC** | CD Projekt Red         |
+| [Fallout New Vegas]({% post_url 2025-07-21-FNV %})                     | 2010 | PS3/X360/**PC**            | Obsidian Entertainment |
+| [Chrono Trigger]({% post_url 2025-07-23-CT %})                         | 1995 | SNES/**DS**/PC             | Square Enix            |
+| [The Last of Us]({% post_url 2025-07-23-TLOU %})                       | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
+| [The Legend of Zelda - Majora's Mask]({% post_url 2025-07-24-MM %})    | 2000 | **N64**/GCN/3DS            | Nintendo               |
+| [Final Fantasy 6]({% post_url 2025-07-24-FF6 %})                       | 1994 | SNES/**GBA**/PC            | Square Enix            |
 
 ### 9.5/10
 
-| Title                                                               | Year | Platform            | Publisher             |
-| ------------------------------------------------------------------- | ---- | ------------------- | --------------------- |
-| [Uncharted 4]({% post_url 2025-07-26-U4 %})                         | 2016 | **PS4**/PC          | Naughty Dog           |
-| [Xenoblade Chronicles 1]({% post_url 2025-07-26-XC1 %})             | 2010 | **Wii**/3DS/NSW     | Monolith Soft         |
-| [The Elder Scrolls III - Morrowind]({% post_url 2025-07-26-TES3 %}) | 2002 | XBOX/**PC**         | Bethesda Game Studios |
-| [Metal Gear Solid 3 - Snake Eater]({% post_url 2025-07-26-MGS3 %})  | 2004 | **PS2**/PC          | Konami                |
-| [Red Dead Redemption]({% post_url 2025-07-27-RDR %})                | 2010 | **PS3**/X360/NSW/PC | Rockstar Games        |
+| Title                                                                        | Year | Platform               | Publisher             |
+| ---------------------------------------------------------------------------- | ---- | ---------------------- | --------------------- |
+| [The Elder Scrolls III - Morrowind]({% post_url 2025-07-26-TES3 %})          | 2002 | XBOX/**PC**            | Bethesda Game Studios |
+| [Metal Gear Solid 3 - Snake Eater]({% post_url 2025-07-26-MGS3 %})           | 2004 | **PS2**/PC             | Konami                |
+| [Xenoblade Chronicles 1]({% post_url 2025-07-26-XC1 %})                      | 2010 | **Wii**/3DS/NSW        | Monolith Soft         |
+| [Uncharted 4]({% post_url 2025-07-26-U4 %})                                  | 2016 | **PS4**/PC             | Naughty Dog           |
+| [Red Dead Redemption]({% post_url 2025-07-27-RDR %})                         | 2010 | **PS3**/X360/NSW/PC    | Rockstar Games        |
+| [The Last of Us 2]({% post_url 2025-07-28-TLOU2 %})                          | 2020 | **PS4**/PS5/PC         | Naughty Dog           |
+| [Cyberpunk 2077]({% post_url 2025-08-03-CP2077 %})                           | 2020 | PS4/PS5/XB1/XBX/**PC** | CD Projekt Red        |
+| [The Legend of Zelda - Tears of the Kingdom]({% post_url 2025-08-05-TOTK %}) | 2023 | **NSW**                | Nintendo              |
+| [Fallout 2]({% post_url 2025-07-30-FO2 %})                                   | 1998 | **PC**                 | Black Isle Studios    |
+| [The Legend of Zelda - Ocarina of Time]({% post_url 2025-07-29-OOT %})       | 1998 | **N64**/GCN/3DS        | Nintendo              |
+| [Final Fantasy X]({% post_url 2025-07-29-FFX %})                             | 2001 | **PS2**/PC             | Square Enix           |
+| [Metro Exodus]({% post_url 2025-08-03-MEX %})                                | 2019 | PS4/PS5/**PC**         | 4A Games              |
+
+### 9/10
+
+| Title                                             | Year | Platform   | Publisher |
+| ------------------------------------------------- | ---- | ---------- | --------- |
+| [Persona 5 (Royal)]({% post_url 2025-08-06-P5 %}) | 2016 | PS4/**PC** | Atlus     |
