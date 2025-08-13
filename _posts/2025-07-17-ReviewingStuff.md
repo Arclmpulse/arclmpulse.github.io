@@ -87,6 +87,9 @@ Thanks for reading this, now for the list!
 
 ### 9/10
 
-| Title                                             | Year | Platform   | Publisher |
-| ------------------------------------------------- | ---- | ---------- | --------- |
-| [Persona 5 (Royal)]({% post_url 2025-08-06-P5 %}) | 2016 | PS4/**PC** | Atlus     |
+| Title                                                        | Year | Platform       | Publisher |
+| ------------------------------------------------------------ | ---- | -------------- | --------- |
+| [Persona 5 (Royal)]({% post_url 2025-08-06-P5 %})            | 2016 | PS4/**PC**     | Atlus     |
+| [Divinity Original Sin: 2]({% post_url 2025-08-06-DOS2 %})   | 2017 | PS4/XB1/**PC** | Larian    |
+| [Yakuza 0]({% post_url 2025-08-06-Y0 %})                     | 2015 | PS4/XB1/**PC** | Konami    |
+| [Fire Emblem - Three Houses]({% post_url 2025-08-10-FE16 %}) | 2019 | NSW            | Nintendo  |
