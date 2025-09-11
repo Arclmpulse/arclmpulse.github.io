@@ -94,6 +94,13 @@ Thanks for reading this, now for the list!
 | [Yakuza 0]({% post_url 2025-08-06-Y0 %})                         | 2015 | PS4/XB1/**PC**  | Konami                |
 | [Fire Emblem - Three Houses]({% post_url 2025-08-10-FE16 %})     | 2019 | **NSW**         | Nintendo              |
 | [Resident Evil 4 Remake]({% post_url 2025-08-18-RE4R %})         | 2023 | PS5/**PC**      | Capcom                |
+| [Final Fantasy 9]({% post_url 2025-08-27-FFIX %})                | 2000 | **PS1**/PC      | Square Enix           |
 | [It Takes Two]({% post_url 2025-08-17-ITT %})                    | 2019 | **PC**          | Hazelight Studios     |
 | [The Elder Scrolls IV: Oblivion]({% post_url 2025-08-25-TES4 %}) | 2006 | PS3/X360/**PC** | Bethesda Game Studios |
 | [LA Noire]({% post_url 2025-08-24-LAN %})                        | 2011 | PS3/X360/**PC** | Rockstar Studios      |
+
+### 8.5/10
+
+| Title                                      | Year | Platform        | Publisher             |
+| ------------------------------------------ | ---- | --------------- | --------------------- |
+| [Fallout 3]({% post_url 2025-09-01-FO3 %}) | 2008 | PS3/X360/**PC** | Bethesda Game Studios |
