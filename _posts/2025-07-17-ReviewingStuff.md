@@ -91,13 +91,16 @@ Thanks for reading this, now for the list!
 | ---------------------------------------------------------------- | ---- | --------------- | --------------------- |
 | [Persona 5 (Royal)]({% post_url 2025-08-06-P5 %})                | 2016 | PS4/**PC**      | Atlus                 |
 | [Divinity Original Sin: 2]({% post_url 2025-08-06-DOS2 %})       | 2017 | PS4/XB1/**PC**  | Larian                |
+| [God of War]({% post_url 2025-11-09-GOW %})                      | 2018 | PS4/**PC**      | Santa Monica Studios  |
 | [Yakuza 0]({% post_url 2025-08-06-Y0 %})                         | 2015 | PS4/XB1/**PC**  | Konami                |
 | [Fire Emblem - Three Houses]({% post_url 2025-08-10-FE16 %})     | 2019 | **NSW**         | Nintendo              |
 | [Resident Evil 4 Remake]({% post_url 2025-08-18-RE4R %})         | 2023 | PS5/**PC**      | Capcom                |
 | [Final Fantasy 9]({% post_url 2025-08-27-FFIX %})                | 2000 | **PS1**/PC      | Square Enix           |
 | [It Takes Two]({% post_url 2025-08-17-ITT %})                    | 2019 | **PC**          | Hazelight Studios     |
 | [The Elder Scrolls IV: Oblivion]({% post_url 2025-08-25-TES4 %}) | 2006 | PS3/X360/**PC** | Bethesda Game Studios |
+| [Horizon Zero Dawn]({% post_url 2025-11-09-HZD %})               | 2017 | **PS4**/PC      | Guerilla Games        |
 | [LA Noire]({% post_url 2025-08-24-LAN %})                        | 2011 | PS3/X360/**PC** | Rockstar Studios      |
+| [Resident Evil 2 Remake]({% post_url 2025-11-09-RE2R %})         | 2019 | PS4/**PC**      | Capcom                |
 
 ### 8.5/10
 
