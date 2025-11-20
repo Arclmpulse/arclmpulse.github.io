@@ -66,7 +66,7 @@ Thanks for reading this, now for the list!
 | [Chrono Trigger]({% post_url 2025-07-23-CT %})                         | 1995 | SNES/**DS**/PC             | Square Enix            |
 | [The Last of Us]({% post_url 2025-07-23-TLOU %})                       | 2013 | PS3/**PS4**/PC             | Naughty Dog            |
 | [The Legend of Zelda - Majora's Mask]({% post_url 2025-07-24-MM %})    | 2000 | **N64**/GCN/3DS            | Nintendo               |
-| [Final Fantasy 6]({% post_url 2025-07-24-FF6 %})                       | 1994 | SNES/**GBA**/PC            | Square Enix            |
+| [Final Fantasy VI]({% post_url 2025-07-24-FF6 %})                      | 1994 | SNES/**GBA**/PC            | Square Enix            |
 
 ### 9.5/10
 
@@ -95,7 +95,7 @@ Thanks for reading this, now for the list!
 | [Yakuza 0]({% post_url 2025-08-06-Y0 %})                             | 2015 | PS4/XB1/**PC**    | SEGA                  |
 | [Fire Emblem - Three Houses]({% post_url 2025-08-10-FE16 %})         | 2019 | **NSW**           | Nintendo              |
 | [Resident Evil 4 Remake]({% post_url 2025-08-18-RE4R %})             | 2023 | PS5/**PC**        | Capcom                |
-| [Final Fantasy 9]({% post_url 2025-08-27-FFIX %})                    | 2000 | **PS1**/PC        | Square Enix           |
+| [Final Fantasy IX]({% post_url 2025-08-27-FFIX %})                   | 2000 | **PS1**/PC        | Square Enix           |
 | [It Takes Two]({% post_url 2025-08-17-ITT %})                        | 2019 | **PC**            | Hazelight Studios     |
 | [The Elder Scrolls IV: Oblivion]({% post_url 2025-08-25-TES4 %})     | 2006 | PS3/X360/**PC**   | Bethesda Game Studios |
 | [The Legend of Zelda - Wind Waker]({% post_url 2025-11-12-TLOZWW %}) | 2002 | **GCN**/Wii U/NSW | Nintendo              |
@@ -104,9 +104,13 @@ Thanks for reading this, now for the list!
 | [LA Noire]({% post_url 2025-08-24-LAN %})                            | 2011 | PS3/X360/**PC**   | Rockstar Studios      |
 | [Metro: Last Light]({% post_url 2025-11-12-MLL %})                   | 2013 | PS3/X360/**PC**   | 4A Games              |
 | [Resident Evil 2 Remake]({% post_url 2025-11-09-RE2R %})             | 2019 | PS4/**PC**        | Capcom                |
+| [Fire Emblem - Path of Radiance]({% post_url 2025-11-13-FE9 %})      | 2005 | **GCN**           | Nintendo              |
+| [Uncharted 2]({% post_url 2025-11-17-U2 %})                          | 2009 | **PS3**/PS4       | Naughty Dog           |
 
 ### 8.5/10
 
-| Title                                      | Year | Platform        | Publisher             |
-| ------------------------------------------ | ---- | --------------- | --------------------- |
-| [Fallout 3]({% post_url 2025-09-01-FO3 %}) | 2008 | PS3/X360/**PC** | Bethesda Game Studios |
+| Title                                                | Year | Platform        | Publisher             |
+| ---------------------------------------------------- | ---- | --------------- | --------------------- |
+| [Fallout 3]({% post_url 2025-09-01-FO3 %})           | 2008 | PS3/X360/**PC** | Bethesda Game Studios |
+| [Final Fantasy VII]({% post_url 2025-11-16-FFVII %}) | 1997 | **PS1**/PC      | Square Enix           |
+| [Persona 4 (Golden)]({% post_url 2025-11-17-P4 %})   | 2008 | PS2/PS3/**PC**  | Atlus                 |
