@@ -115,7 +115,17 @@ Thanks for reading this, now for the list!
 | [Final Fantasy VII]({% post_url 2025-11-16-FFVII %})                        | 1997 | **PS1**/PC        | Square Enix           |
 | [Persona 4 (Golden)]({% post_url 2025-11-17-P4 %})                          | 2008 | PS2/PS3/**PC**    | Atlus                 |
 | [Fallout 1]({% post_url 2025-11-23-FO1 %})                                  | 1997 | **PC**            | Black Isle Studios    |
+| [Kingdom Hearts 2]({% post_url 2026-01-25-KH2 %})                           | 2005 | **PS2**/PS3/PC    | Square Enix           |
+| [Resident Evil: Village]({% post_url 2025-11-30-RE8 %})                     | 2021 | PS4/PS5/**PC**    | Capcom                |
+| [Death Stranding]({% post_url 2026-01-25-DS1 %})                            | 2019 | PS4/**PC**        | Sony                  |
 | [The Legend of Zelda - Twilight Princess]({% post_url 2025-11-20-TLOZTP %}) | 2006 | **GCN**/Wii/Wii U | Nintendo              |
 | [Metal Gear Solid - Peace Walker]({% post_url 2025-11-20-MGSPW %})          | 2010 | PSP/**PS3**/X360  | Konami                |
 | [Grand Theft Auto 4]({% post_url 2025-11-23-GTA4 %})                        | 2008 | PS3/X360/**PC**   | Rockstar Games        |
+| [Fire Emblem - Radiant Dawn]({% post_url 2025-11-30-FE10 %})                | 2007 | **Wii**           | Nintendo              |
 | [Yakuza Kiwami 2]({% post_url 2025-11-20-YK2 %})                            | 2017 | PS4/XB1/**PC**    | SEGA                  |
+
+### 8/10
+
+| Title                                                     | Year | Platform | Publisher |
+| --------------------------------------------------------- | ---- | -------- | --------- |
+| [Fire Emblem - Awakening]({% post_url 2026-01-25-FE13 %}) | 2012 | **3DS**  | Nintendo  |
