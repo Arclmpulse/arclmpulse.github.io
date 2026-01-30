@@ -127,7 +127,8 @@ Thanks for reading this, now for the list!
 
 ### 8/10
 
-| Title                                                     | Year | Platform       | Publisher             |
-| --------------------------------------------------------- | ---- | -------------- | --------------------- |
-| [Fallout 4]({% post_url 2026-01-27-FO4 %})                | 2015 | PS4/XB1/**PC** | Bethesda Game Studios |
-| [Fire Emblem - Awakening]({% post_url 2026-01-25-FE13 %}) | 2012 | **3DS**        | Nintendo              |
+| Title                                                         | Year | Platform        | Publisher             |
+| ------------------------------------------------------------- | ---- | --------------- | --------------------- |
+| [Fallout 4]({% post_url 2026-01-27-FO4 %})                    | 2015 | PS4/XB1/**PC**  | Bethesda Game Studios |
+| [The Elder Scrolls V: Skyrim]({% post_url 2026-01-29-TES5 %}) | 2011 | PS3/X360/**PC** | Bethesda Game Studios |
+| [Fire Emblem - Awakening]({% post_url 2026-01-25-FE13 %})     | 2012 | **3DS**         | Nintendo              |
