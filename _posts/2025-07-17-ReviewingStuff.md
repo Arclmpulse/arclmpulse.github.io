@@ -121,11 +121,13 @@ Thanks for reading this, now for the list!
 | [The Legend of Zelda - Twilight Princess]({% post_url 2025-11-20-TLOZTP %}) | 2006 | **GCN**/Wii/Wii U | Nintendo              |
 | [Metal Gear Solid - Peace Walker]({% post_url 2025-11-20-MGSPW %})          | 2010 | PSP/**PS3**/X360  | Konami                |
 | [Grand Theft Auto 4]({% post_url 2025-11-23-GTA4 %})                        | 2008 | PS3/X360/**PC**   | Rockstar Games        |
+| [Earthbound]({% post_url 2026-01-28-M2 %})                                  | 1994 | **SNES**          | Nintendo              |
 | [Fire Emblem - Radiant Dawn]({% post_url 2025-11-30-FE10 %})                | 2007 | **Wii**           | Nintendo              |
 | [Yakuza Kiwami 2]({% post_url 2025-11-20-YK2 %})                            | 2017 | PS4/XB1/**PC**    | SEGA                  |
 
 ### 8/10
 
-| Title                                                     | Year | Platform | Publisher |
-| --------------------------------------------------------- | ---- | -------- | --------- |
-| [Fire Emblem - Awakening]({% post_url 2026-01-25-FE13 %}) | 2012 | **3DS**  | Nintendo  |
+| Title                                                     | Year | Platform       | Publisher             |
+| --------------------------------------------------------- | ---- | -------------- | --------------------- |
+| [Fallout 4]({% post_url 2026-01-27-FO4 %})                | 2015 | PS4/XB1/**PC** | Bethesda Game Studios |
+| [Fire Emblem - Awakening]({% post_url 2026-01-25-FE13 %}) | 2012 | **3DS**        | Nintendo              |
